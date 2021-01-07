@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "clase281020"
+		},
+		{
+			"path": "landing"
+		},
+		{
+			"path": "Pruebirijilla sass"
+		},
+		{
+			"path": "portfolio"
+		},
+		{
+			"path": "js-repaso"
+		},
+		{
+			"path": "js-ejercicios-II"
+		},
+		{
+			"path": "DOM"
+		},
+		{
+			"path": "DOM2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portafolio",
+		"compile-hero.disable-compile-files-on-did-save-code": true
+	}
+}
