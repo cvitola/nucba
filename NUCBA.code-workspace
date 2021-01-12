@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "DOM2"
+		},
+		{
+			"path": "Login"
 		}
 	],
 	"settings": {
