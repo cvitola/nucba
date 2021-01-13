@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "Login"
+		},
+		{
+			"path": "pruebaTW"
 		}
 	],
 	"settings": {
