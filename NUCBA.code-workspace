@@ -29,10 +29,13 @@
 		},
 		{
 			"path": "pruebaTW"
+		},
+		{
+			"path": "Landing-Boken"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "portafolio",
+		"liveServer.settings.multiRootWorkspaceName": "Landing-Boken",
 		"compile-hero.disable-compile-files-on-did-save-code": true
 	}
 }
